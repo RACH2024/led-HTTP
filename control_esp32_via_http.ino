@@ -9,8 +9,8 @@
 #include <ESPAsyncWebServer.h>
 
 // Replace with your network credentials
-const char* ssid = "Galaxy A33 5G3E74";
-const char* password = "ikon@exo2024";
+const char* ssid = "BOX4G_Inwi_513F";
+const char* password = "55165756" ;
 
 const char* PARAM_INPUT_1 = "state"; //Define string parameter for input state
 
