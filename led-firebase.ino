@@ -14,8 +14,8 @@ int etatBouton;
 int etatBoutonPrec = LOW;
 
 // Insert your network credentials
-#define WIFI_SSID "Galaxy A33 5G3E74"
-#define WIFI_PASSWORD "ikon@exo2024"
+#define WIFI_SSID "BOX4G_Inwi_513F" 
+#define WIFI_PASSWORD  "55165756"
 
 // Insert Firebase project API Key
 #define API_KEY "AIzaSyCDR_1jfZQ2X1IXA9LyFv3EmNjLv_a8nEM"
